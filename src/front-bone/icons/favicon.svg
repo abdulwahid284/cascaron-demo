@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="31.651051"
+   height="31.761709"
+   viewBox="0 0 8.3743455 8.403619"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Cascaron_logo (copy).svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16.851126"
+     inkscape:cx="33.159827"
+     inkscape:cy="17.182287"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1875"
+     inkscape:window-height="1025"
+     inkscape:window-x="45"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="-2.7755576e-17"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.02821556,-288.57829)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.17053986px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31782937"
+       x="-0.53672272"
+       y="277.36676"
+       id="text92"
+       transform="scale(0.93484173,1.0696998)"><tspan
+         sodipodi:role="line"
+         id="tspan90"
+         x="-0.53672272"
+         y="277.36676"
+         style="font-size:10.17053986px;stroke-width:0.31782937"><tspan
+           style="font-weight:bold;font-size:10.17053986px;fill:#c87137;stroke-width:0.31782937"
+           id="tspan126">C</tspan></tspan></text>
+    <text
+       transform="scale(0.93203837,1.0729172)"
+       id="text843"
+       y="276.14258"
+       x="5.7885909"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.91407108px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24731472"
+       xml:space="preserve"><tspan
+         style="font-size:7.91407108px;stroke-width:0.24731472"
+         y="276.14258"
+         x="5.7885909"
+         id="tspan841"
+         sodipodi:role="line"><tspan
+           style="font-weight:bold;font-size:3.29752922px;fill:#c87137;stroke-width:0.24731472"
+           id="tspan837">@</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.62546492px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.06772773"
+       x="2.5540681"
+       y="276.93484"
+       id="text847"
+       transform="scale(0.93802497,1.0660697)"><tspan
+         sodipodi:role="line"
+         id="tspan845"
+         x="2.5540681"
+         y="276.93484"
+         style="fill:#c87137;stroke-width:0.06772773">xlvm</tspan></text>
+  </g>
+</svg>
